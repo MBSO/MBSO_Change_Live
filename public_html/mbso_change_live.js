@@ -1,8 +1,4 @@
 
-function myFunction (){
-    alert("Hello World");
-}
-
 document.getElementById('tableid_89').style.display = 'none';
 document.getElementById('strCDA_535_field_0_67').selectedIndex = 0;
 document.getElementById('strCDA_535_field_0_68').selectedIndex = 0;
